@@ -1,0 +1,197 @@
+h1{
+  padding :3% 3%;
+}
+h3{
+  padding:3% 3%;
+}
+h4{
+  padding:1.5% 3%;
+  color:#844685;
+}
+p{
+  padding:3% 3%;
+}
+a{
+  padding:0 3%;
+  font-weight: bolder;
+}
+.a-tag{
+  color:#78c4d4;
+  text-decoration: none;
+  transition-duration: 1s;
+}
+.a-tag:hover{
+   color:#b34180;
+   text-decoration: none;
+   transition-duration:  1s;
+}
+.form-inline{
+  padding:3% 3%;
+}
+
+
+
+
+/* NavBar*/
+nav{
+  position: fixed;
+  background-color: #fff;
+  padding:0 10%;
+}
+.navbar-brand{
+  padding-left: 12%;
+  padding-right: 3%;
+}
+.nav-head{
+  padding:3% 10%;
+  color: #72147e;
+  font-weight: bold;
+  font-size: 34px;
+}
+.nav-item{
+  padding: 3% 5%;
+}
+.nav-btn{
+  padding: 3% 0;
+}
+.navbar-btn{
+  margin:0 3%;
+}
+.btn{
+  margin:0 3%;
+}
+
+
+/*title-section*/
+
+.title-sec{
+  padding:12% 15%;
+}
+@media (max-width:992px){
+  .title-sec{
+      text-align:center;
+  }
+
+}
+
+.title-image{
+  width:80%;
+
+}
+.img-div{
+  text-align: center;
+}
+.tit-h1{
+  color: #301b3f;
+}
+.tit-h3{
+  color:#72147e;
+}
+.search-button{
+  position:relative;
+  right:60px;
+  z-index: 1;
+
+}
+.form-control{
+  box-shadow:5px 5px 5px #aaaaaa;
+  width:10%;
+}
+.tit-h1,.intro-h1{
+  font-family: 'Montserrat',sans-serif;
+  font-weight: 800;
+}
+.tit-h3,.intro-h3{
+  font-family: 'Montserrat',sans-serif;
+}
+.bot{
+  width:5%;
+  position: fixed;
+  right:2%;
+  bottom:2%;
+}
+/*intro*/
+
+
+#intro{
+  text-align: center;
+}
+.intro-head{
+  padding:1% 0;
+}
+.intro-h1{
+  color:#301b3f;
+}
+.intro-h3{
+  color:#72147e;
+}
+
+/*Features*/
+#features{
+
+  padding:7% 15%;
+
+}
+.feature-img{
+  width:60%;
+}
+.img-div{
+  text-align: center;
+}
+.feature-box{
+  padding:5% 0;
+}
+.logo-img{
+  width:5%;
+  margin:3% 3%;
+}
+.para-logo{
+  float:left;
+}
+.feat-para{
+  color:#bbbbbb;
+  font-family: 'Ubuntu',sans-serif;
+}
+.feat-head{
+  color:#693c72;
+  font-family: 'Ubuntu',sans-serif;
+  font-weight: 700;
+}
+
+/*Footer*/
+
+#footer{
+  padding:7% 15%;
+  text-align: center;
+  background-color: #faf4ff;
+}
+.foot{
+  margin:3% 4%;
+  padding:2% 2%;
+  background-color: #fff;
+  width:5%;
+  transition-duration: 1s;
+  border-radius: 10px;
+}
+.row{
+  text-align: center;
+}
+.foot-h3{
+  color:#72147e;
+  font-family: 'Montserrat',sans-serif;
+}
+.foot-h1{
+  color:#301b3f;
+  font-family: 'Montserrat',sans-serif;
+  font-weight: 800;
+}
+.fa-3x{
+  color:#72147e;
+}
+.fa-5x{
+  color:#522d5b;
+}
+.foot:hover{
+  box-shadow: 5px 5px 5px #aaaaaa;
+  transition-duration: 1s;
+}
